@@ -1,0 +1,2 @@
+cd cpuminer-opt
+./run
